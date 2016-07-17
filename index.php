@@ -51,9 +51,9 @@ setcookie("currentPageTitle","Bharatwaaj - Portfolio",24*60*60);
                 <div class="container">
                     <!-- Start first slide -->
                     <div class="da-slide">
-                        <h2 class="fittext2">Welcome to pluton theme</h2>
-                        <h4>Clean & responsive</h4>
-                        <p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.</p>
+                        <h2 class="fittext2">Web Template</h2>
+                        <h4>Web & Android App Designer/Developer</h4>
+                        <p> - </p>
                         <a href="#" class="da-link button">Read more</a>
                         <div class="da-img">
                             <img src="images/Slider01.png" alt="image01" width="320">
